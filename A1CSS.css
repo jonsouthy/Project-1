@@ -1,0 +1,57 @@
+body{
+    background-color:#f0eded;
+
+}
+
+.heading{
+    border-bottom:2px solid #8f8d8d;
+}
+
+.imSet{
+    position:absolute;
+    right:60;
+    top:30;
+    -ms-transform: rotate(-7deg); /* IE 9 */
+    -webkit-transform: rotate(-7deg); /* Chrome, Safari, Opera */
+    transform: rotate(-7deg);    
+}
+
+.im{
+    border: 7px solid #ffffff;
+    height:200px;
+    width:150px;
+}
+
+.conInfo{
+    text-align:left;
+}
+
+.edText{
+    float:right;
+    display:inline-block;
+    height:150px;
+    width:880px;
+    margin-right:100px;
+
+}
+
+.adj{
+    float:left;
+    margin-right: 250px;
+}
+
+.e{
+    display:inline-block;
+    height:150px;
+    width:100px;
+    margin-left:200px;
+    text-align:right;
+}
+
+.b{
+    border-left:3px solid grey;
+    padding-left:20px;
+}
+
+    
+
